@@ -1,0 +1,46 @@
+16:55:21.794 [TestNG-tests-1] INFO  testCase.TC003Datadriven_LoginPage - .................TC003 datadriven loginPage started..................
+16:55:21.813 [TestNG-tests-1] INFO  testCase.TC003Datadriven_LoginPage - clicked myaccount link
+16:55:21.840 [TestNG-tests-2] INFO  testCase.TC003Datadriven_LoginPage - email entered on email filed
+16:55:21.894 [TestNG-tests-1] INFO  testCase.TC003Datadriven_LoginPage - clicked loginpage link
+16:55:21.911 [TestNG-tests-2] INFO  testCase.TC003Datadriven_LoginPage - password entered on password filed
+16:55:22.187 [TestNG-tests-1] INFO  testCase.TC003Datadriven_LoginPage - login page opened
+16:55:22.259 [TestNG-tests-1] INFO  testCase.TC003Datadriven_LoginPage - email entered on email filed
+16:55:22.325 [TestNG-tests-1] INFO  testCase.TC003Datadriven_LoginPage - password entered on password filed
+16:55:22.393 [TestNG-tests-1] INFO  testCase.TC003Datadriven_LoginPage - login button clicked
+16:55:23.642 [TestNG-tests-2] INFO  testCase.TC003Datadriven_LoginPage - login button clicked
+16:55:25.414 [TestNG-tests-1] INFO  testCase.TC003Datadriven_LoginPage - login page not login due to invalid cred
+16:55:25.414 [TestNG-tests-1] INFO  testCase.TC003Datadriven_LoginPage - .................TC003 datadriven loginPage finished..................
+16:55:25.416 [TestNG-tests-1] INFO  testCase.TC003Datadriven_LoginPage - .................TC003 datadriven loginPage started..................
+16:55:25.416 [TestNG-tests-1] INFO  testCase.TC003Datadriven_LoginPage - clicked myaccount link
+16:55:25.500 [TestNG-tests-1] INFO  testCase.TC003Datadriven_LoginPage - clicked loginpage link
+16:55:25.789 [TestNG-tests-1] INFO  testCase.TC003Datadriven_LoginPage - login page opened
+16:55:25.893 [TestNG-tests-1] INFO  testCase.TC003Datadriven_LoginPage - email entered on email filed
+16:55:25.952 [TestNG-tests-1] INFO  testCase.TC003Datadriven_LoginPage - password entered on password filed
+16:55:26.039 [TestNG-tests-1] INFO  testCase.TC003Datadriven_LoginPage - login button clicked
+16:55:26.689 [TestNG-tests-2] INFO  testCase.TC003Datadriven_LoginPage - login page not login due to invalid cred
+16:55:26.689 [TestNG-tests-2] INFO  testCase.TC003Datadriven_LoginPage - .................TC003 datadriven loginPage finished..................
+16:55:26.692 [TestNG-tests-2] INFO  testCase.TC003Datadriven_LoginPage - .................TC003 datadriven loginPage started..................
+16:55:26.693 [TestNG-tests-2] INFO  testCase.TC003Datadriven_LoginPage - clicked myaccount link
+16:55:26.763 [TestNG-tests-2] INFO  testCase.TC003Datadriven_LoginPage - clicked loginpage link
+16:55:27.056 [TestNG-tests-2] INFO  testCase.TC003Datadriven_LoginPage - login page opened
+16:55:27.125 [TestNG-tests-2] INFO  testCase.TC003Datadriven_LoginPage - email entered on email filed
+16:55:27.164 [TestNG-tests-2] INFO  testCase.TC003Datadriven_LoginPage - password entered on password filed
+16:55:27.198 [TestNG-tests-2] INFO  testCase.TC003Datadriven_LoginPage - login button clicked
+16:55:29.069 [TestNG-tests-1] INFO  testCase.TC003Datadriven_LoginPage - login page not login due to invalid cred
+16:55:29.069 [TestNG-tests-1] INFO  testCase.TC003Datadriven_LoginPage - .................TC003 datadriven loginPage finished..................
+16:55:29.071 [TestNG-tests-1] INFO  testCase.TC003Datadriven_LoginPage - .................TC003 datadriven loginPage started..................
+16:55:29.071 [TestNG-tests-1] INFO  testCase.TC003Datadriven_LoginPage - clicked myaccount link
+16:55:29.137 [TestNG-tests-1] INFO  testCase.TC003Datadriven_LoginPage - clicked loginpage link
+16:55:29.397 [TestNG-tests-1] INFO  testCase.TC003Datadriven_LoginPage - login page opened
+16:55:29.486 [TestNG-tests-1] INFO  testCase.TC003Datadriven_LoginPage - email entered on email filed
+16:55:29.550 [TestNG-tests-1] INFO  testCase.TC003Datadriven_LoginPage - password entered on password filed
+16:55:30.248 [TestNG-tests-2] INFO  testCase.TC003Datadriven_LoginPage - login page not login due to invalid cred
+16:55:30.248 [TestNG-tests-2] INFO  testCase.TC003Datadriven_LoginPage - .................TC003 datadriven loginPage finished..................
+16:55:30.248 [TestNG-tests-2] INFO  testCase.TC003Datadriven_LoginPage - .................TC003 datadriven loginPage started..................
+16:55:30.248 [TestNG-tests-2] INFO  testCase.TC003Datadriven_LoginPage - clicked myaccount link
+16:55:30.326 [TestNG-tests-2] INFO  testCase.TC003Datadriven_LoginPage - clicked loginpage link
+16:55:30.738 [TestNG-tests-2] INFO  testCase.TC003Datadriven_LoginPage - login page opened
+16:55:30.805 [TestNG-tests-2] INFO  testCase.TC003Datadriven_LoginPage - email entered on email filed
+16:55:30.878 [TestNG-tests-2] INFO  testCase.TC003Datadriven_LoginPage - password entered on password filed
+16:55:30.978 [TestNG-tests-1] INFO  testCase.TC003Datadriven_LoginPage - login button clicked
+16:55:31.374 [TestNG-tests-2] INFO  testCase.TC003Datadriven_LoginPage - login button clicked

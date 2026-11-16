@@ -1,0 +1,47 @@
+13:54:03.806 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@740abb5: 77 ms
+13:54:03.939 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@4d63b624: 32 ms
+13:54:03.955 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@790174f2: 15 ms
+13:54:03.965 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@27cf3151: 10 ms
+13:54:03.977 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@56b78e55: 11 ms
+13:54:03.977 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@76318a7d: 0 ms
+13:59:33.031 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Java workplace\OpenCart\src\test\java\testCase\testng.xml
+
+13:59:40.397 [TestNG-tests-1] INFO  testCase.TC003Datadriven_LoginPage - .................TC003 datadriven loginPage started..................
+13:59:40.533 [TestNG-tests-1] INFO  testCase.TC003Datadriven_LoginPage - clicked myaccount link
+13:59:40.679 [TestNG-tests-1] INFO  testCase.TC003Datadriven_LoginPage - clicked loginpage link
+13:59:41.031 [TestNG-tests-1] INFO  testCase.TC003Datadriven_LoginPage - login page opened
+13:59:41.193 [TestNG-tests-1] INFO  testCase.TC003Datadriven_LoginPage - email entered on email filed
+13:59:41.314 [TestNG-tests-1] INFO  testCase.TC003Datadriven_LoginPage - password entered on password filed
+13:59:42.435 [TestNG-tests-1] INFO  testCase.TC003Datadriven_LoginPage - login button clicked
+13:59:42.501 [TestNG-tests-1] INFO  testCase.TC003Datadriven_LoginPage - my account page visible
+13:59:42.933 [TestNG-tests-1] INFO  testCase.TC003Datadriven_LoginPage - my account page logout
+13:59:42.933 [TestNG-tests-1] INFO  testCase.TC003Datadriven_LoginPage - .................TC003 datadriven loginPage finished..................
+13:59:42.949 [TestNG-tests-1] INFO  testCase.TC003Datadriven_LoginPage - .................TC003 datadriven loginPage started..................
+13:59:42.951 [TestNG-tests-1] INFO  testCase.TC003Datadriven_LoginPage - clicked myaccount link
+13:59:43.371 [TestNG-tests-1] INFO  testCase.TC003Datadriven_LoginPage - clicked loginpage link
+13:59:43.915 [TestNG-tests-1] INFO  testCase.TC003Datadriven_LoginPage - login page opened
+13:59:44.087 [TestNG-tests-1] INFO  testCase.TC003Datadriven_LoginPage - email entered on email filed
+13:59:44.258 [TestNG-tests-1] INFO  testCase.TC003Datadriven_LoginPage - password entered on password filed
+13:59:45.272 [TestNG-tests-2] INFO  testCase.TC003Datadriven_LoginPage - .................TC003 datadriven loginPage started..................
+13:59:45.272 [TestNG-tests-2] INFO  testCase.TC003Datadriven_LoginPage - clicked myaccount link
+13:59:45.427 [TestNG-tests-2] INFO  testCase.TC003Datadriven_LoginPage - clicked loginpage link
+13:59:45.543 [TestNG-tests-1] INFO  testCase.TC003Datadriven_LoginPage - login button clicked
+13:59:45.597 [TestNG-tests-1] INFO  testCase.TC003Datadriven_LoginPage - my account page visible
+13:59:45.838 [TestNG-tests-2] INFO  testCase.TC003Datadriven_LoginPage - login page opened
+13:59:45.996 [TestNG-tests-2] INFO  testCase.TC003Datadriven_LoginPage - email entered on email filed
+13:59:46.129 [TestNG-tests-2] INFO  testCase.TC003Datadriven_LoginPage - password entered on password filed
+13:59:46.136 [TestNG-tests-1] INFO  testCase.TC003Datadriven_LoginPage - my account page logout
+13:59:46.136 [TestNG-tests-1] INFO  testCase.TC003Datadriven_LoginPage - .................TC003 datadriven loginPage finished..................
+13:59:46.147 [TestNG-tests-1] INFO  testCase.TC003Datadriven_LoginPage - .................TC003 datadriven loginPage started..................
+13:59:46.155 [TestNG-tests-1] INFO  testCase.TC003Datadriven_LoginPage - clicked myaccount link
+13:59:46.309 [TestNG-tests-1] INFO  testCase.TC003Datadriven_LoginPage - clicked loginpage link
+13:59:46.823 [TestNG-tests-1] INFO  testCase.TC003Datadriven_LoginPage - login page opened
+13:59:47.013 [TestNG-tests-1] INFO  testCase.TC003Datadriven_LoginPage - email entered on email filed
+13:59:47.159 [TestNG-tests-1] INFO  testCase.TC003Datadriven_LoginPage - password entered on password filed
+13:59:47.267 [TestNG-tests-1] INFO  testCase.TC003Datadriven_LoginPage - login button clicked
+13:59:47.352 [TestNG-tests-2] INFO  testCase.TC003Datadriven_LoginPage - login button clicked
+13:59:47.393 [TestNG-tests-2] INFO  testCase.TC003Datadriven_LoginPage - my account page visible
+13:59:48.346 [TestNG-tests-2] INFO  testCase.TC003Datadriven_LoginPage - my account page logout
+13:59:48.346 [TestNG-tests-2] INFO  testCase.TC003Datadriven_LoginPage - .................TC003 datadriven loginPage finished..................
+13:59:48.364 [TestNG-tests-2] INFO  testCase.TC003Datadriven_LoginPage - .................TC003 datadriven loginPage started..................

@@ -1,0 +1,4 @@
+17:54:42.144 [main] INFO  testCase.TC002LoginTest - email entered on email filed
+17:54:42.310 [main] INFO  testCase.TC002LoginTest - clicked loginpage link
+17:54:42.420 [main] INFO  testCase.TC002LoginTest - password entered on password filed
+17:54:42.800 [main] INFO  testCase.TC002LoginTest - login page opened

@@ -1,0 +1,48 @@
+16:29:06.243 [main] INFO  testCase.Tc001accountRegistrationPage - ...............Finished Tc001 accountRegistrationPage.............
+16:29:08.185 [main] INFO  testCase.TC002LoginTest - .................TC002 Verify login started..................
+16:29:08.185 [main] INFO  testCase.TC002LoginTest - clicked myaccount link
+16:29:08.248 [main] INFO  testCase.TC002LoginTest - clicked loginpage link
+16:29:08.473 [main] INFO  testCase.TC002LoginTest - login page opened
+16:29:08.559 [main] INFO  testCase.TC002LoginTest - email entered on email filed
+16:29:08.623 [main] INFO  testCase.TC002LoginTest - password entered on password filed
+16:29:08.681 [main] INFO  testCase.TC002LoginTest - login button clicked
+16:29:09.612 [main] INFO  testCase.TC002LoginTest - .................TC002 Verify login Finished..................
+16:31:38.190 [TestNG-tests-1] INFO  testCase.Tc001accountRegistrationPage - ......................starting tc001 acountRegistrationPage.............
+16:31:38.317 [TestNG-tests-1] INFO  testCase.Tc001accountRegistrationPage - we clicked on my account link
+16:31:38.614 [TestNG-tests-1] INFO  testCase.Tc001accountRegistrationPage - we clicked on my register link
+16:31:38.618 [TestNG-tests-1] INFO  testCase.Tc001accountRegistrationPage - providing customer details
+16:31:39.388 [TestNG-tests-1] INFO  testCase.Tc001accountRegistrationPage - user click continue button
+16:31:41.331 [TestNG-tests-1] INFO  testCase.Tc001accountRegistrationPage - Validating expected message
+16:31:41.379 [TestNG-tests-1] INFO  testCase.Tc001accountRegistrationPage - ...............Finished Tc001 accountRegistrationPage.............
+16:31:41.555 [TestNG-tests-2] INFO  testCase.Tc001accountRegistrationPage - ......................starting tc001 acountRegistrationPage.............
+16:31:41.670 [TestNG-tests-2] INFO  testCase.Tc001accountRegistrationPage - we clicked on my account link
+16:31:42.183 [TestNG-tests-2] INFO  testCase.Tc001accountRegistrationPage - we clicked on my register link
+16:31:42.185 [TestNG-tests-2] INFO  testCase.Tc001accountRegistrationPage - providing customer details
+16:31:42.807 [TestNG-tests-2] INFO  testCase.Tc001accountRegistrationPage - user click continue button
+16:31:44.519 [TestNG-tests-2] INFO  testCase.Tc001accountRegistrationPage - Validating expected message
+16:31:44.554 [TestNG-tests-2] INFO  testCase.Tc001accountRegistrationPage - ...............Finished Tc001 accountRegistrationPage.............
+16:31:44.778 [TestNG-tests-1] INFO  testCase.TC002LoginTest - .................TC002 Verify login started..................
+16:31:44.778 [TestNG-tests-1] INFO  testCase.TC002LoginTest - clicked myaccount link
+16:31:44.851 [TestNG-tests-1] INFO  testCase.TC002LoginTest - clicked loginpage link
+16:31:45.278 [TestNG-tests-1] INFO  testCase.TC002LoginTest - login page opened
+16:31:45.448 [TestNG-tests-1] INFO  testCase.TC002LoginTest - email entered on email filed
+16:31:45.614 [TestNG-tests-1] INFO  testCase.TC002LoginTest - password entered on password filed
+16:31:45.953 [TestNG-tests-1] INFO  testCase.TC002LoginTest - login button clicked
+16:31:47.544 [TestNG-tests-1] INFO  testCase.TC002LoginTest - .................TC002 Verify login Finished..................
+16:31:47.647 [TestNG-tests-2] INFO  testCase.TC002LoginTest - .................TC002 Verify login started..................
+16:31:47.649 [TestNG-tests-2] INFO  testCase.TC002LoginTest - clicked myaccount link
+16:31:47.755 [TestNG-tests-2] INFO  testCase.TC002LoginTest - clicked loginpage link
+16:31:48.056 [TestNG-tests-2] INFO  testCase.TC002LoginTest - login page opened
+16:31:48.182 [TestNG-tests-2] INFO  testCase.TC002LoginTest - email entered on email filed
+16:31:48.277 [TestNG-tests-2] INFO  testCase.TC002LoginTest - password entered on password filed
+16:31:48.389 [TestNG-tests-2] INFO  testCase.TC002LoginTest - login button clicked
+16:31:49.388 [TestNG-tests-2] INFO  testCase.TC002LoginTest - .................TC002 Verify login Finished..................
+16:49:18.145 [TestNG-tests-2] INFO  testCase.Tc001accountRegistrationPage - ......................starting tc001 acountRegistrationPage.............
+16:49:18.265 [TestNG-tests-2] INFO  testCase.Tc001accountRegistrationPage - we clicked on my account link
+16:49:18.475 [TestNG-tests-1] INFO  testCase.Tc001accountRegistrationPage - ......................starting tc001 acountRegistrationPage.............
+16:49:18.584 [TestNG-tests-1] INFO  testCase.Tc001accountRegistrationPage - we clicked on my account link
+16:49:18.687 [TestNG-tests-2] INFO  testCase.Tc001accountRegistrationPage - we clicked on my register link
+16:49:18.689 [TestNG-tests-2] INFO  testCase.Tc001accountRegistrationPage - providing customer details
+16:49:18.983 [TestNG-tests-1] INFO  testCase.Tc001accountRegistrationPage - we clicked on my register link
+16:49:18.988 [TestNG-tests-1] INFO  testCase.Tc001accountRegistrationPage - providing customer details
+16:49:19.493 [TestNG-tests-2] INFO  testCase.Tc001accountRegistrationPage - user click continue button

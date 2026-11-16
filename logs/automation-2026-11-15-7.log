@@ -1,0 +1,57 @@
+18:09:24.039 [main] INFO  testCase.Tc001accountRegistrationPage - ......................starting tc001 acountRegistrationPage.............
+18:09:24.143 [main] INFO  testCase.Tc001accountRegistrationPage - we clicked on my account link
+18:09:24.495 [main] INFO  testCase.Tc001accountRegistrationPage - we clicked on my register link
+18:09:24.499 [main] INFO  testCase.Tc001accountRegistrationPage - providing customer details
+18:09:24.846 [main] INFO  testCase.Tc001accountRegistrationPage - user click continue button
+18:09:26.611 [main] INFO  testCase.Tc001accountRegistrationPage - Validating expected message
+18:09:26.639 [main] INFO  testCase.Tc001accountRegistrationPage - ...............Finished Tc001 accountRegistrationPage.............
+18:09:28.486 [main] INFO  testCase.TC002LoginTest - .................TC002 Verify login started..................
+18:09:28.486 [main] INFO  testCase.TC002LoginTest - clicked myaccount link
+18:09:28.552 [main] INFO  testCase.TC002LoginTest - clicked loginpage link
+18:09:28.794 [main] INFO  testCase.TC002LoginTest - login page opened
+18:09:28.876 [main] INFO  testCase.TC002LoginTest - email entered on email filed
+18:09:28.924 [main] INFO  testCase.TC002LoginTest - password entered on password filed
+18:09:29.814 [main] INFO  testCase.TC002LoginTest - login button clicked
+18:09:29.843 [main] INFO  testCase.TC002LoginTest - .................TC002 Verify login Finished..................
+18:09:58.146 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Java workplace\OpenCart\grouptestng.xml
+
+18:10:00.396 [main] INFO  testCase.Tc001accountRegistrationPage - ......................starting tc001 acountRegistrationPage.............
+18:10:00.515 [main] INFO  testCase.Tc001accountRegistrationPage - we clicked on my account link
+18:10:00.895 [main] INFO  testCase.Tc001accountRegistrationPage - we clicked on my register link
+18:10:00.900 [main] INFO  testCase.Tc001accountRegistrationPage - providing customer details
+18:10:01.324 [main] INFO  testCase.Tc001accountRegistrationPage - user click continue button
+18:10:03.983 [main] INFO  testCase.Tc001accountRegistrationPage - Validating expected message
+18:10:04.014 [main] INFO  testCase.Tc001accountRegistrationPage - ...............Finished Tc001 accountRegistrationPage.............
+18:10:05.883 [main] INFO  testCase.TC002LoginTest - .................TC002 Verify login started..................
+18:10:05.883 [main] INFO  testCase.TC002LoginTest - clicked myaccount link
+18:10:05.954 [main] INFO  testCase.TC002LoginTest - clicked loginpage link
+18:10:06.266 [main] INFO  testCase.TC002LoginTest - login page opened
+18:10:06.369 [main] INFO  testCase.TC002LoginTest - email entered on email filed
+18:10:06.429 [main] INFO  testCase.TC002LoginTest - password entered on password filed
+18:10:08.482 [main] INFO  testCase.TC002LoginTest - login button clicked
+18:10:08.515 [main] INFO  testCase.TC002LoginTest - .................TC002 Verify login Finished..................
+18:20:11.562 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Java workplace\OpenCart\grouptestng.xml
+
+18:20:14.074 [main] INFO  testCase.Tc001accountRegistrationPage - ......................starting tc001 acountRegistrationPage.............
+18:20:14.210 [main] INFO  testCase.Tc001accountRegistrationPage - we clicked on my account link
+18:20:14.839 [main] INFO  testCase.Tc001accountRegistrationPage - we clicked on my register link
+18:20:14.842 [main] INFO  testCase.Tc001accountRegistrationPage - providing customer details
+18:20:15.240 [main] INFO  testCase.Tc001accountRegistrationPage - user click continue button
+18:20:17.554 [main] INFO  testCase.Tc001accountRegistrationPage - Validating expected message
+18:20:17.587 [main] INFO  testCase.Tc001accountRegistrationPage - ...............Finished Tc001 accountRegistrationPage.............
+18:25:28.028 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Java workplace\OpenCart\grouptestng.xml
+
+18:25:31.101 [main] INFO  testCase.Tc001accountRegistrationPage - ......................starting tc001 acountRegistrationPage.............
+18:25:31.239 [main] INFO  testCase.Tc001accountRegistrationPage - we clicked on my account link
+18:25:31.602 [main] INFO  testCase.Tc001accountRegistrationPage - we clicked on my register link
+18:25:31.608 [main] INFO  testCase.Tc001accountRegistrationPage - providing customer details
+18:25:32.004 [main] INFO  testCase.Tc001accountRegistrationPage - user click continue button
+18:25:34.387 [main] INFO  testCase.Tc001accountRegistrationPage - Validating expected message
+18:25:34.422 [main] INFO  testCase.Tc001accountRegistrationPage - ...............Finished Tc001 accountRegistrationPage.............
+18:25:59.160 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Java workplace\OpenCart\grouptestng.xml
+
+18:26:01.562 [main] INFO  testCase.Tc001accountRegistrationPage - ......................starting tc001 acountRegistrationPage.............

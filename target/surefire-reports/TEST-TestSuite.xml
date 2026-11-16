@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.2" name="TestSuite" time="18.751" tests="6" errors="0" skipped="0" failures="2">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="F:\Java workplace\OpenCart\target\test-classes;F:\Java workplace\OpenCart\target\classes;C:\Users\ksai3\.m2\repository\org\seleniumhq\selenium\selenium-java\4.52.0\selenium-java-4.52.0.jar;C:\Users\ksai3\.m2\repository\org\seleniumhq\selenium\selenium-api\4.52.0\selenium-api-4.52.0.jar;C:\Users\ksai3\.m2\repository\org\jspecify\jspecify\1.0.1\jspecify-1.0.1.jar;C:\Users\ksai3\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\4.52.0\selenium-chrome-driver-4.52.0.jar;C:\Users\ksai3\.m2\repository\org\seleniumhq\selenium\selenium-chromium-driver\4.52.0\selenium-chromium-driver-4.52.0.jar;C:\Users\ksai3\.m2\repository\org\seleniumhq\selenium\selenium-json\4.52.0\selenium-json-4.52.0.jar;C:\Users\ksai3\.m2\repository\org\seleniumhq\selenium\selenium-manager\4.52.0\selenium-manager-4.52.0.jar;C:\Users\ksai3\.m2\repository\org\seleniumhq\selenium\selenium-devtools-latest\4.52.0\selenium-devtools-latest-4.52.0.jar;C:\Users\ksai3\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v154\4.52.0\selenium-devtools-v154-4.52.0.jar;C:\Users\ksai3\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v155\4.52.0\selenium-devtools-v155-4.52.0.jar;C:\Users\ksai3\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v156\4.52.0\selenium-devtools-v156-4.52.0.jar;C:\Users\ksai3\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\4.52.0\selenium-edge-driver-4.52.0.jar;C:\Users\ksai3\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\4.52.0\selenium-firefox-driver-4.52.0.jar;C:\Users\ksai3\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\4.52.0\selenium-ie-driver-4.52.0.jar;C:\Users\ksai3\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\4.52.0\selenium-remote-driver-4.52.0.jar;C:\Users\ksai3\.m2\repository\com\google\guava\guava\33.7.2-jre\guava-33.7.2-jre.jar;C:\Users\ksai3\.m2\repository\com\google\guava\failureaccess\1.0.3\failureaccess-1.0.3.jar;C:\Users\ksai3\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\ksai3\.m2\repository\com\google\errorprone\error_prone_annotations\2.50.0\error_prone_annotations-2.50.0.jar;C:\Users\ksai3\.m2\repository\com\google\j2objc\j2objc-annotations\3.1\j2objc-annotations-3.1.jar;C:\Users\ksai3\.m2\repository\io\opentelemetry\opentelemetry-api\1.67.0\opentelemetry-api-1.67.0.jar;C:\Users\ksai3\.m2\repository\io\opentelemetry\opentelemetry-context\1.67.0\opentelemetry-context-1.67.0.jar;C:\Users\ksai3\.m2\repository\io\opentelemetry\opentelemetry-common\1.67.0\opentelemetry-common-1.67.0.jar;C:\Users\ksai3\.m2\repository\io\opentelemetry\opentelemetry-exporter-logging\1.67.0\opentelemetry-exporter-logging-1.67.0.jar;C:\Users\ksai3\.m2\repository\io\opentelemetry\opentelemetry-sdk-common\1.67.0\opentelemetry-sdk-common-1.67.0.jar;C:\Users\ksai3\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure-spi\1.67.0\opentelemetry-sdk-extension-autoconfigure-spi-1.67.0.jar;C:\Users\ksai3\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure\1.67.0\opentelemetry-sdk-extension-autoconfigure-1.67.0.jar;C:\Users\ksai3\.m2\repository\io\opentelemetry\opentelemetry-sdk-trace\1.67.0\opentelemetry-sdk-trace-1.67.0.jar;C:\Users\ksai3\.m2\repository\io\opentelemetry\opentelemetry-sdk\1.67.0\opentelemetry-sdk-1.67.0.jar;C:\Users\ksai3\.m2\repository\io\opentelemetry\opentelemetry-sdk-metrics\1.67.0\opentelemetry-sdk-metrics-1.67.0.jar;C:\Users\ksai3\.m2\repository\io\opentelemetry\opentelemetry-sdk-logs\1.67.0\opentelemetry-sdk-logs-1.67.0.jar;C:\Users\ksai3\.m2\repository\net\bytebuddy\byte-buddy\1.18.15\byte-buddy-1.18.15.jar;C:\Users\ksai3\.m2\repository\org\jetbrains\annotations\26.1.0\annotations-26.1.0.jar;C:\Users\ksai3\.m2\repository\org\seleniumhq\selenium\selenium-http\4.52.0\selenium-http-4.52.0.jar;C:\Users\ksai3\.m2\repository\org\seleniumhq\selenium\selenium-os\4.52.0\selenium-os-4.52.0.jar;C:\Users\ksai3\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\4.52.0\selenium-safari-driver-4.52.0.jar;C:\Users\ksai3\.m2\repository\org\seleniumhq\selenium\selenium-support\4.52.0\selenium-support-4.52.0.jar;C:\Users\ksai3\.m2\repository\org\apache\poi\poi\6.0.0\poi-6.0.0.jar;C:\Users\ksai3\.m2\repository\commons-codec\commons-codec\1.23.0\commons-codec-1.23.0.jar;C:\Users\ksai3\.m2\repository\org\apache\commons\commons-collections4\4.6.0\commons-collections4-4.6.0.jar;C:\Users\ksai3\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar;C:\Users\ksai3\.m2\repository\com\zaxxer\SparseBitSet\1.3\SparseBitSet-1.3.jar;C:\Users\ksai3\.m2\repository\org\apache\poi\poi-ooxml\6.0.0\poi-ooxml-6.0.0.jar;C:\Users\ksai3\.m2\repository\org\apache\poi\poi-ooxml-lite\6.0.0\poi-ooxml-lite-6.0.0.jar;C:\Users\ksai3\.m2\repository\org\apache\xmlbeans\xmlbeans\5.4.1\xmlbeans-5.4.1.jar;C:\Users\ksai3\.m2\repository\org\apache\commons\commons-compress\1.28.0\commons-compress-1.28.0.jar;C:\Users\ksai3\.m2\repository\com\github\virtuald\curvesapi\1.08\curvesapi-1.08.jar;C:\Users\ksai3\.m2\repository\org\apache\logging\log4j\log4j-core\2.26.1\log4j-core-2.26.1.jar;C:\Users\ksai3\.m2\repository\org\apache\logging\log4j\log4j-api\2.26.1\log4j-api-2.26.1.jar;C:\Users\ksai3\.m2\repository\org\apache\logging\log4j\log4j-slf4j-impl\2.26.1\log4j-slf4j-impl-2.26.1.jar;C:\Users\ksai3\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar;C:\Users\ksai3\.m2\repository\commons-io\commons-io\2.22.0\commons-io-2.22.0.jar;C:\Users\ksai3\.m2\repository\org\apache\commons\commons-lang3\3.21.0\commons-lang3-3.21.0.jar;C:\Users\ksai3\.m2\repository\org\testng\testng\7.12.0\testng-7.12.0.jar;C:\Users\ksai3\.m2\repository\org\jcommander\jcommander\1.83\jcommander-1.83.jar;C:\Users\ksai3\.m2\repository\org\webjars\jquery\3.7.1\jquery-3.7.1.jar;C:\Users\ksai3\.m2\repository\com\aventstack\extentreports\5.1.2\extentreports-5.1.2.jar;C:\Users\ksai3\.m2\repository\io\reactivex\rxjava3\rxjava\3.1.6\rxjava-3.1.6.jar;C:\Users\ksai3\.m2\repository\org\reactivestreams\reactive-streams\1.0.4\reactive-streams-1.0.4.jar;C:\Users\ksai3\.m2\repository\org\freemarker\freemarker\2.3.32\freemarker-2.3.32.jar;C:\Users\ksai3\.m2\repository\org\projectlombok\lombok\1.18.26\lombok-1.18.26.jar;C:\Users\ksai3\.m2\repository\com\google\code\gson\gson\2.10.1\gson-2.10.1.jar;"/>
+    <property name="java.vm.vendor" value="Microsoft"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://www.microsoft.com"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin"/>
+    <property name="sun.java.command" value="C:\Users\ksai3\AppData\Local\Temp\surefire4566831255500884946\surefirebooter-20261116171809390_3.jar C:\Users\ksai3\AppData\Local\Temp\surefire4566831255500884946 2026-11-16T17-18-08_947-jvmRun1 surefire-20261116171809390_1tmp surefire_0-20261116171809390_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="F:\Java workplace\OpenCart\target\test-classes;F:\Java workplace\OpenCart\target\classes;C:\Users\ksai3\.m2\repository\org\seleniumhq\selenium\selenium-java\4.52.0\selenium-java-4.52.0.jar;C:\Users\ksai3\.m2\repository\org\seleniumhq\selenium\selenium-api\4.52.0\selenium-api-4.52.0.jar;C:\Users\ksai3\.m2\repository\org\jspecify\jspecify\1.0.1\jspecify-1.0.1.jar;C:\Users\ksai3\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\4.52.0\selenium-chrome-driver-4.52.0.jar;C:\Users\ksai3\.m2\repository\org\seleniumhq\selenium\selenium-chromium-driver\4.52.0\selenium-chromium-driver-4.52.0.jar;C:\Users\ksai3\.m2\repository\org\seleniumhq\selenium\selenium-json\4.52.0\selenium-json-4.52.0.jar;C:\Users\ksai3\.m2\repository\org\seleniumhq\selenium\selenium-manager\4.52.0\selenium-manager-4.52.0.jar;C:\Users\ksai3\.m2\repository\org\seleniumhq\selenium\selenium-devtools-latest\4.52.0\selenium-devtools-latest-4.52.0.jar;C:\Users\ksai3\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v154\4.52.0\selenium-devtools-v154-4.52.0.jar;C:\Users\ksai3\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v155\4.52.0\selenium-devtools-v155-4.52.0.jar;C:\Users\ksai3\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v156\4.52.0\selenium-devtools-v156-4.52.0.jar;C:\Users\ksai3\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\4.52.0\selenium-edge-driver-4.52.0.jar;C:\Users\ksai3\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\4.52.0\selenium-firefox-driver-4.52.0.jar;C:\Users\ksai3\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\4.52.0\selenium-ie-driver-4.52.0.jar;C:\Users\ksai3\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\4.52.0\selenium-remote-driver-4.52.0.jar;C:\Users\ksai3\.m2\repository\com\google\guava\guava\33.7.2-jre\guava-33.7.2-jre.jar;C:\Users\ksai3\.m2\repository\com\google\guava\failureaccess\1.0.3\failureaccess-1.0.3.jar;C:\Users\ksai3\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\ksai3\.m2\repository\com\google\errorprone\error_prone_annotations\2.50.0\error_prone_annotations-2.50.0.jar;C:\Users\ksai3\.m2\repository\com\google\j2objc\j2objc-annotations\3.1\j2objc-annotations-3.1.jar;C:\Users\ksai3\.m2\repository\io\opentelemetry\opentelemetry-api\1.67.0\opentelemetry-api-1.67.0.jar;C:\Users\ksai3\.m2\repository\io\opentelemetry\opentelemetry-context\1.67.0\opentelemetry-context-1.67.0.jar;C:\Users\ksai3\.m2\repository\io\opentelemetry\opentelemetry-common\1.67.0\opentelemetry-common-1.67.0.jar;C:\Users\ksai3\.m2\repository\io\opentelemetry\opentelemetry-exporter-logging\1.67.0\opentelemetry-exporter-logging-1.67.0.jar;C:\Users\ksai3\.m2\repository\io\opentelemetry\opentelemetry-sdk-common\1.67.0\opentelemetry-sdk-common-1.67.0.jar;C:\Users\ksai3\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure-spi\1.67.0\opentelemetry-sdk-extension-autoconfigure-spi-1.67.0.jar;C:\Users\ksai3\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure\1.67.0\opentelemetry-sdk-extension-autoconfigure-1.67.0.jar;C:\Users\ksai3\.m2\repository\io\opentelemetry\opentelemetry-sdk-trace\1.67.0\opentelemetry-sdk-trace-1.67.0.jar;C:\Users\ksai3\.m2\repository\io\opentelemetry\opentelemetry-sdk\1.67.0\opentelemetry-sdk-1.67.0.jar;C:\Users\ksai3\.m2\repository\io\opentelemetry\opentelemetry-sdk-metrics\1.67.0\opentelemetry-sdk-metrics-1.67.0.jar;C:\Users\ksai3\.m2\repository\io\opentelemetry\opentelemetry-sdk-logs\1.67.0\opentelemetry-sdk-logs-1.67.0.jar;C:\Users\ksai3\.m2\repository\net\bytebuddy\byte-buddy\1.18.15\byte-buddy-1.18.15.jar;C:\Users\ksai3\.m2\repository\org\jetbrains\annotations\26.1.0\annotations-26.1.0.jar;C:\Users\ksai3\.m2\repository\org\seleniumhq\selenium\selenium-http\4.52.0\selenium-http-4.52.0.jar;C:\Users\ksai3\.m2\repository\org\seleniumhq\selenium\selenium-os\4.52.0\selenium-os-4.52.0.jar;C:\Users\ksai3\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\4.52.0\selenium-safari-driver-4.52.0.jar;C:\Users\ksai3\.m2\repository\org\seleniumhq\selenium\selenium-support\4.52.0\selenium-support-4.52.0.jar;C:\Users\ksai3\.m2\repository\org\apache\poi\poi\6.0.0\poi-6.0.0.jar;C:\Users\ksai3\.m2\repository\commons-codec\commons-codec\1.23.0\commons-codec-1.23.0.jar;C:\Users\ksai3\.m2\repository\org\apache\commons\commons-collections4\4.6.0\commons-collections4-4.6.0.jar;C:\Users\ksai3\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar;C:\Users\ksai3\.m2\repository\com\zaxxer\SparseBitSet\1.3\SparseBitSet-1.3.jar;C:\Users\ksai3\.m2\repository\org\apache\poi\poi-ooxml\6.0.0\poi-ooxml-6.0.0.jar;C:\Users\ksai3\.m2\repository\org\apache\poi\poi-ooxml-lite\6.0.0\poi-ooxml-lite-6.0.0.jar;C:\Users\ksai3\.m2\repository\org\apache\xmlbeans\xmlbeans\5.4.1\xmlbeans-5.4.1.jar;C:\Users\ksai3\.m2\repository\org\apache\commons\commons-compress\1.28.0\commons-compress-1.28.0.jar;C:\Users\ksai3\.m2\repository\com\github\virtuald\curvesapi\1.08\curvesapi-1.08.jar;C:\Users\ksai3\.m2\repository\org\apache\logging\log4j\log4j-core\2.26.1\log4j-core-2.26.1.jar;C:\Users\ksai3\.m2\repository\org\apache\logging\log4j\log4j-api\2.26.1\log4j-api-2.26.1.jar;C:\Users\ksai3\.m2\repository\org\apache\logging\log4j\log4j-slf4j-impl\2.26.1\log4j-slf4j-impl-2.26.1.jar;C:\Users\ksai3\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar;C:\Users\ksai3\.m2\repository\commons-io\commons-io\2.22.0\commons-io-2.22.0.jar;C:\Users\ksai3\.m2\repository\org\apache\commons\commons-lang3\3.21.0\commons-lang3-3.21.0.jar;C:\Users\ksai3\.m2\repository\org\testng\testng\7.12.0\testng-7.12.0.jar;C:\Users\ksai3\.m2\repository\org\jcommander\jcommander\1.83\jcommander-1.83.jar;C:\Users\ksai3\.m2\repository\org\webjars\jquery\3.7.1\jquery-3.7.1.jar;C:\Users\ksai3\.m2\repository\com\aventstack\extentreports\5.1.2\extentreports-5.1.2.jar;C:\Users\ksai3\.m2\repository\io\reactivex\rxjava3\rxjava\3.1.6\rxjava-3.1.6.jar;C:\Users\ksai3\.m2\repository\org\reactivestreams\reactive-streams\1.0.4\reactive-streams-1.0.4.jar;C:\Users\ksai3\.m2\repository\org\freemarker\freemarker\2.3.32\freemarker-2.3.32.jar;C:\Users\ksai3\.m2\repository\org\projectlombok\lombok\1.18.26\lombok-1.18.26.jar;C:\Users\ksai3\.m2\repository\com\google\code\gson\gson\2.10.1\gson-2.10.1.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\ksai3"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2022-08-12"/>
+    <property name="java.home" value="C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="F:\Java workplace\OpenCart"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\ksai3\AppData\Local\Temp\surefire4566831255500884946\surefirebooter-20261116171809390_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.16.1+1-LTS"/>
+    <property name="user.name" value="ksai3"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="Microsoft-40648"/>
+    <property name="localRepository" value="C:\Users\ksai3\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/microsoft/openjdk/issues"/>
+    <property name="java.io.tmpdir" value="C:\Users\ksai3\AppData\Local\Temp\"/>
+    <property name="java.version" value="11.0.16.1"/>
+    <property name="user.dir" value="F:\Java workplace\OpenCart"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Users\ksai3\AppData\Roaming\npm\node_modules\allure-commandline\bin;C:\Users\ksai3\AppData\Roaming\npm;C:\Program Files\Git\cmd;C:\Program Files\Azure Data Studio\bin;C:\Program Files\nodejs\;F:\jdk-25.0.4.1\bin;F:\apache-maven-3.10.1\bin;C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Users\ksai3\AppData\Roaming\npm\node_modules\allure-commandline\bin;C:\Users\ksai3\AppData\Roaming\npm;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-17\bin;C:\Program Files\Azure Data Studio\bin;C:\Program Files\Java\jdk1.8.0_202\bin;C:\Program Files\nodejs\;C:\Users\ksai3\AppData\Local\Programs\OpenAI\Codex\bin;C:\Users\ksai3\AppData\Local\Microsoft\WindowsApps;;C:\pc\PyCharm Community Edition 2022.3.3\bin;;C:\Program Files\Azure Data Studio\bin;C:\Users\ksai3\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\ksai3\AppData\Roaming\npm;C:\Users\ksai3\AppData\Roaming\npm;C:\Users\ksai3\AppData\Local\Programs\Microsoft VS Code\bin\copilot-shim;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Microsoft"/>
+    <property name="java.vm.version" value="11.0.16.1+1-LTS"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+  <testcase name="VerifyAccountRegistration" classname="testCase.Tc001accountRegistrationPage" time="4.897">
+    <system-err><![CDATA[Nov 16, 2026 5:18:13 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 157, returning the closest version; found: 156; Please update to a Selenium version that supports CDP version 157
+Nov 16, 2026 5:18:13 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 157, returning the closest version; found: 156; Please update to a Selenium version that supports CDP version 157
+]]></system-err>
+  </testcase>
+  <testcase name="VerifyAccountRegistration" classname="testCase.Tc001accountRegistrationPage" time="4.902"/>
+  <testcase name="verifyLoginID" classname="testCase.TC002LoginTest" time="2.885">
+    <system-err><![CDATA[Nov 16, 2026 5:18:21 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 157, returning the closest version; found: 156; Please update to a Selenium version that supports CDP version 157
+Nov 16, 2026 5:18:21 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 157, returning the closest version; found: 156; Please update to a Selenium version that supports CDP version 157
+]]></system-err>
+  </testcase>
+  <testcase name="verifyLoginID" classname="testCase.TC002LoginTest" time="2.898"/>
+  <testcase name="verifyDatadrivenLogintest" classname="testCase.TC003Datadriven_LoginPage" time="5.566">
+    <failure message="java.lang.UnsupportedClassVersionError: org/apache/poi/ss/usermodel/Cell has been compiled by a more recent version of the Java Runtime (class file version 61.0), this version of the Java Runtime only recognizes class file versions up to 55.0" type="java.lang.RuntimeException"><![CDATA[java.lang.RuntimeException: java.lang.UnsupportedClassVersionError: org/apache/poi/ss/usermodel/Cell has been compiled by a more recent version of the Java Runtime (class file version 61.0), this version of the Java Runtime only recognizes class file versions up to 55.0
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodNoCheckedException(MethodInvocationHelper.java:58)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeDataProvider(MethodInvocationHelper.java:159)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:809)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:734)
+	at org.testng.internal.invokers.ParameterHandler.handleParameters(ParameterHandler.java:72)
+	at org.testng.internal.invokers.ParameterHandler.createParameters(ParameterHandler.java:51)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:959)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: java.lang.UnsupportedClassVersionError: org/apache/poi/ss/usermodel/Cell has been compiled by a more recent version of the Java Runtime (class file version 61.0), this version of the Java Runtime only recognizes class file versions up to 55.0
+	at java.base/java.lang.ClassLoader.defineClass1(Native Method)
+	at java.base/java.lang.ClassLoader.defineClass(ClassLoader.java:1017)
+	at java.base/java.security.SecureClassLoader.defineClass(SecureClassLoader.java:174)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.defineClass(BuiltinClassLoader.java:800)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.findClassOnClassPathOrNull(BuiltinClassLoader.java:698)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClassOrNull(BuiltinClassLoader.java:621)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:579)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:178)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:522)
+	at Utilities.DataProviders.getData(DataProviders.java:13)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodNoCheckedException(MethodInvocationHelper.java:54)
+	... 19 more
+]]></failure>
+    <system-err><![CDATA[Nov 16, 2026 5:18:27 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 157, returning the closest version; found: 156; Please update to a Selenium version that supports CDP version 157
+Nov 16, 2026 5:18:27 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 157, returning the closest version; found: 156; Please update to a Selenium version that supports CDP version 157
+]]></system-err>
+  </testcase>
+  <testcase name="verifyDatadrivenLogintest" classname="testCase.TC003Datadriven_LoginPage" time="5.599">
+    <failure message="java.lang.UnsupportedClassVersionError: org/apache/poi/ss/usermodel/Cell has been compiled by a more recent version of the Java Runtime (class file version 61.0), this version of the Java Runtime only recognizes class file versions up to 55.0" type="java.lang.RuntimeException"><![CDATA[java.lang.RuntimeException: java.lang.UnsupportedClassVersionError: org/apache/poi/ss/usermodel/Cell has been compiled by a more recent version of the Java Runtime (class file version 61.0), this version of the Java Runtime only recognizes class file versions up to 55.0
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodNoCheckedException(MethodInvocationHelper.java:58)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeDataProvider(MethodInvocationHelper.java:159)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:809)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:734)
+	at org.testng.internal.invokers.ParameterHandler.handleParameters(ParameterHandler.java:72)
+	at org.testng.internal.invokers.ParameterHandler.createParameters(ParameterHandler.java:51)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:959)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: java.lang.UnsupportedClassVersionError: org/apache/poi/ss/usermodel/Cell has been compiled by a more recent version of the Java Runtime (class file version 61.0), this version of the Java Runtime only recognizes class file versions up to 55.0
+	at java.base/java.lang.ClassLoader.defineClass1(Native Method)
+	at java.base/java.lang.ClassLoader.defineClass(ClassLoader.java:1017)
+	at java.base/java.security.SecureClassLoader.defineClass(SecureClassLoader.java:174)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.defineClass(BuiltinClassLoader.java:800)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.findClassOnClassPathOrNull(BuiltinClassLoader.java:698)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClassOrNull(BuiltinClassLoader.java:621)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:579)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:178)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:522)
+	at Utilities.DataProviders.getData(DataProviders.java:13)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodNoCheckedException(MethodInvocationHelper.java:54)
+	... 19 more
+]]></failure>
+  </testcase>
+</testsuite>
